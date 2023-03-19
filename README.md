@@ -2,6 +2,6 @@
 
 ### THIS IS LIST OF MY ATTEMPTED SOLUTIONS
 
-username on codewars: tra-guy
-ranking: 7
-target: 5
+Note: these are my initial solutins which I later refactored in the website.
+
+https://www.codewars.com
