@@ -1,7 +1,7 @@
-# CODEWARS PRACTICE SOLUTIONS
+#Codewars Practice Solutions
 
-### THIS IS LIST OF MY ATTEMPTED SOLUTIONS
+##A collection of my coding attempts and battles!
 
-Note: these are my initial solutins which I later refactored in the website.
+A little snapshot of my learning journey — from rough drafts to refined solut
 
-https://www.codewars.com
+https://www.codewars.com/f7him
